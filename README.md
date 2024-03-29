@@ -11,32 +11,32 @@ The primary goal of this project is to develop a predictive model that accuratel
 You can find the dataset on Kaggle: March Madness 2024 Dataset
 
 ## Notebook Content
-Data Exploration:
+-Data Exploration:
 
 Exploratory analysis of the dataset, including summary statistics, distribution of variables, etc.
 
 
-Data Preprocessing:
+-Data Preprocessing:
 
 Cleaning and preprocessing of the data, handling missing values, data transformation, etc.
 
 
-Feature Engineering:
+-Feature Engineering:
 
 Creation of new features or variables that might improve model performance or provide better insights.
 
 
-Model Building:
+-Model Building:
 
 Building predictive models to forecast game outcomes, team performance, etc.
 
 
-Evaluation:
+-Evaluation:
 
 Evaluation of the model's performance using appropriate metrics.
 
 
-Conclusion:
+-Conclusion:
 
 Summary of findings, insights gained from the analysis, and potential areas for further investigation.
 
